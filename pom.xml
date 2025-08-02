@@ -57,7 +57,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>ru.practicum.discoveryservice.EurekaServerApplication</mainClass>
+                    <mainClass>discoveryserver.EurekaServerApp</mainClass>
                 </configuration>
             </plugin>
         </plugins>
